@@ -10,7 +10,7 @@ function FavoritePicture() {
           <div className="favorite-img">
             <img src={drums} alt="" />
           </div>
-          <p>example text 4</p>
+          <p>example picture description</p>
         </div>
       </div>
     </div>
