@@ -1,16 +1,16 @@
 import React from "react";
-import drums from "../pictures/home/mh_drums_platzmeister22.jpg";
+import drums from "../pictures/home/little_drummer_boy.jpg";
 
 function FavoritePicture() {
   return (
     <div className="inner-wrapper">
       <div className="content">
         <div className="latest-video-area">
-          {/*<h2 className="mb-2">Favorite Picture</h2>*/}
+          <h2 className="mb-2">favorite Picture</h2>
           <div className="favorite-img">
             <img src={drums} alt="" />
           </div>
-          <p>example picture description</p>
+          <p>Liederschatzprojekt-Knittlingen 2019</p>
         </div>
       </div>
     </div>

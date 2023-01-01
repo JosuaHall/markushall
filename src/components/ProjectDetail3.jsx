@@ -9,7 +9,7 @@ function ProjectDetail3() {
         <div className="content py-2">
           <div className="bands-card-layout mt-2 p-1">
             <h1>Osternacht Mitteltal 2023</h1>
-            <p>Nach 2 jähriger Pause findet..</p>
+            <p>Infos demnächst hier</p>
           </div>
         </div>
       </div>

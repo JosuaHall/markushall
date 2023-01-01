@@ -1,4 +1,26 @@
 import React, { useState, useEffect } from "react";
+import pic_1 from "../pictures/Gallery/pic_001_ls_ute.jpg";
+import pic_2 from "../pictures/Gallery/pic_002_ls_intro.jpg";
+import pic_3 from "../pictures/Gallery/pic_003_ls_tina.jpg";
+import pic_4 from "../pictures/Gallery/pic_004_ls_beate.jpg";
+import pic_5 from "../pictures/Gallery/pic_005_ls_favorite3.jpg";
+import pic_6 from "../pictures/Gallery/pic_006_ls_favorite4.jpg";
+import pic_7 from "../pictures/Gallery/pic_007_ls_band.jpg";
+import pic_8 from "../pictures/Gallery/pic_008_ls_stefan.jpg";
+import pic_9 from "../pictures/Gallery/pic_009_ls_maggy.jpg";
+import pic_10 from "../pictures/Gallery/pic_010_ls_manu_beate.jpg";
+import pic_11 from "../pictures/Gallery/pic_011_ls_iris.jpg";
+import pic_12 from "../pictures/Gallery/pic_012_ls_dora.jpg";
+import pic_13 from "../pictures/Gallery/pic_013_ls_nobby.jpg";
+import pic_14 from "../pictures/Gallery/pic_014_ls_lissy.jpg";
+import pic_15 from "../pictures/Gallery/pic_015_ls_manu.jpg";
+import pic_16 from "../pictures/Gallery/pic_016_ls_nobby3.jpg";
+import pic_17 from "../pictures/Gallery/pic_017_ls_markus.jpg";
+import pic_18 from "../pictures/Gallery/pic_018_ls_martin.jpg";
+import pic_19 from "../pictures/Gallery/pic_019_ls_herz_und_herz.jpg";
+import pic_20 from "../pictures/Gallery/pic_020_bdp_markus.jpg";
+import pic_21 from "../pictures/Gallery/pic_021_mukis_start.jpg";
+
 import pic1 from "../pictures/Gallery/pic1_bdp_1_solo1.JPG";
 import pic2 from "../pictures/Gallery/pic2_bdp_2_band.JPG";
 import pic3 from "../pictures/Gallery/pic3_bdp_3_fan.JPG";
@@ -34,7 +56,9 @@ import pic32 from "../pictures/Gallery/pic32_noah_wetterstation_big.gif";
 import pic33 from "../pictures/Gallery/pic33_mukis_1.JPG";
 import pic34 from "../pictures/Gallery/pic34_mukis_2.JPG";
 import pic35 from "../pictures/Gallery/pic35_mukis_3.JPG";
-
+import pic36 from "../pictures/Gallery/pic36_mukis_gips.JPG";
+import pic37 from "../pictures/Gallery/pic37_mukis_kreis.JPG";
+import pic38 from "../pictures/Gallery/pic38_mukis_markus2.JPG";
 import pic39 from "../pictures/Gallery/pic39_ls_grp1.png";
 import pic40 from "../pictures/Gallery/pic40_ls_grp3.jpg";
 import pic41 from "../pictures/Gallery/pic41_ls_prem1.JPG";
@@ -52,6 +76,11 @@ import pic57 from "../pictures/Gallery/pic57_tts_soldaten.JPG";
 import pic58 from "../pictures/Gallery/pic58_tts_tanz.JPG";
 import pic59 from "../pictures/Gallery/pic59_tts_team_part1.JPG";
 import pic60 from "../pictures/Gallery/pic60_tts_team_part2.JPG";
+import pic61 from "../pictures/Gallery/pic61_tts_backstage.JPG";
+import pic62 from "../pictures/Gallery/pic62_tts_favorite1.JPG";
+import pic63 from "../pictures/Gallery/pic63_tts_favorite2.JPG";
+import pic64 from "../pictures/Gallery/pic64_tts_soldaten.JPG";
+import pic65 from "../pictures/Gallery/pic65_tts_speer.JPG";
 import pic100 from "../pictures/Gallery/pic100_hp_charly.jpg";
 import pic101 from "../pictures/Gallery/pic101_hp_markus.jpg";
 import pic102 from "../pictures/Gallery/pic102_hp_ralph.jpg";
@@ -74,6 +103,15 @@ import pic150 from "../pictures/Gallery/pic150_ls_zuhause.jpg";
 import pic151 from "../pictures/Gallery/pic151_mh_mukis.jpg";
 import pic152 from "../pictures/Gallery/pic152_von_guten_maechten.jpg";
 import pic153 from "../pictures/home/little_drummer_boy.jpg";
+import pic154 from "../pictures/Gallery/pic154_taeglich_holz_machen.jpg";
+import pic321 from "../pictures/Gallery/pic321_noah_affe.JPG";
+import pic322 from "../pictures/Gallery/pic322_noah_arche.JPG";
+import pic323 from "../pictures/Gallery/pic323_noah_cool.JPG";
+import pic324 from "../pictures/Gallery/pic324_noah_regie.JPG";
+import pic325 from "../pictures/Gallery/pic325_noah_regie2.JPG";
+import pic326 from "../pictures/Gallery/pic326_noah_tagesschau.JPG";
+import pic327 from "../pictures/Gallery/pic327_noah_tanz.JPG";
+import pic328 from "../pictures/Gallery/pic328_noah_technik.JPG";
 
 function Gallery() {
   const [band, setBand] = useState(false);
@@ -107,30 +145,123 @@ function Gallery() {
             <React.Fragment>
               <ul className="image-gallery">
                 <li>
-                  <img src={pic45} alt="" />
+                  <img src={pic40} alt="" />
+                  <div className="overlay">
+                    <div>Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_1} alt="" />
+                  <div className="overlay">
+                    <div>Ute-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_2} alt="" />
+                  <div className="overlay">
+                    <div>Intro-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_3} alt="" />
+                  <div className="overlay">
+                    <div>Tina-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_4} alt="" />
+                  <div className="overlay">
+                    <div>Beate-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_5} alt="" />
+                  <div className="overlay">
+                    <div>Markus-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_7} alt="" />
                   <div className="overlay">
                     <div>Band-Liederschatzprojekt, 2019/20</div>
                   </div>
                 </li>
+                <li>
+                  <img src={pic_8} alt="" />
+                  <div className="overlay">
+                    <div>Stefan-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_9} alt="" />
+                  <div className="overlay">
+                    <div>Maggy-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_10} alt="" />
+                  <div className="overlay">
+                    <div>Manu und Beate-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_11} alt="" />
+                  <div className="overlay">
+                    <div>Iris-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_12} alt="" />
+                  <div className="overlay">
+                    <div>Dora-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_13} alt="" />
+                  <div className="overlay">
+                    <div>Nobby-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_14} alt="" />
+                  <div className="overlay">
+                    <div>Lissy-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_15} alt="" />
+                  <div className="overlay">
+                    <div>Manu-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_16} alt="" />
+                  <div className="overlay">
+                    <div>Nobby-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_17} alt="" />
+                  <div className="overlay">
+                    <div>Drums-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_18} alt="" />
+                  <div className="overlay">
+                    <div>Martin-Liederschatzprojekt, 2019/20</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic_19} alt="" />
+                  <div className="overlay">
+                    <div>
+                      Herz und Herz vereint zusammen-Liederschatzprojekt,
+                      2019/20
+                    </div>
+                  </div>
+                </li>
 
-                <li>
-                  <img src={pic39} alt="" />
-                  <div className="overlay">
-                    <span>Liederschatzprojekt, 2019/20</span>
-                  </div>
-                </li>
-                <li>
-                  <img src={pic40} alt="" />
-                  <div className="overlay">
-                    <span>Liederschatzprojekt, 2019/20</span>
-                  </div>
-                </li>
-                <li>
-                  <img src={pic41} alt="" />
-                  <div className="overlay">
-                    <span>Liederschatzprojekt, 2019/20</span>
-                  </div>
-                </li>
                 <li>
                   <img src={pic1} alt="" />
                   <div className="overlay">
@@ -210,6 +341,12 @@ function Gallery() {
                   </div>
                 </li>
                 <li>
+                  <img src={pic_20} alt="" />
+                  <div className="overlay">
+                    <span>Bilder der Passion, 2008</span>
+                  </div>
+                </li>
+                <li>
                   <img src={pic50} alt="" />
                   <div className="overlay">
                     <span>Touch the sky, Banner in Baiersbronn, 2004</span>
@@ -237,6 +374,18 @@ function Gallery() {
                   <img src={pic54} alt="" />
                   <div className="overlay">
                     <span>Touch the sky, Saul, 2004</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic64} alt="" />
+                  <div className="overlay">
+                    <span>Touch the sky, Soldaten, 2004</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic65} alt="" />
+                  <div className="overlay">
+                    <span>Touch the sky, Speerwurf, 2004</span>
                   </div>
                 </li>
                 <li>
@@ -270,6 +419,19 @@ function Gallery() {
                     <span>Touch the sky, Team Part b, 2004</span>
                   </div>
                 </li>
+
+                <li>
+                  <img src={pic61} alt="" />
+                  <div className="overlay">
+                    <span>Touch the sky, Backstage, 2004</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic63} alt="" />
+                  <div className="overlay">
+                    <span>Touch the sky, Finale, 2004</span>
+                  </div>
+                </li>
               </ul>
               <h4
                 className="gallery-expand-buttons"
@@ -291,6 +453,24 @@ function Gallery() {
           {mukis ? (
             <React.Fragment>
               <ul className="image-gallery">
+                <li>
+                  <img src={pic37} alt="" />
+                  <div className="overlay">
+                    <div>Mukis, 2005</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic36} alt="" />
+                  <div className="overlay">
+                    <div>Mukis, 2005</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic38} alt="" />
+                  <div className="overlay">
+                    <div>Mukis, 2005</div>
+                  </div>
+                </li>
                 <li>
                   <img src={pic14} alt="" />
                   <div className="overlay">
@@ -377,6 +557,30 @@ function Gallery() {
                   </div>
                 </li>
                 <li>
+                  <img src={pic322} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, 2009</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic321} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, Intro,2009</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic323} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, 2009</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic327} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, 2009</span>
+                  </div>
+                </li>
+                <li>
                   <img src={pic27} alt="" />
                   <div className="overlay">
                     <span>Musical-Noah, Flut, 2009</span>
@@ -407,9 +611,34 @@ function Gallery() {
                   </div>
                 </li>
                 <li>
+                  <img src={pic324} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, Regie, 2009</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic325} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, Regie2, 2009</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic326} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, Tagesschau, 2009</span>
+                  </div>
+                </li>
+
+                <li>
                   <img src={pic32} alt="" />
                   <div className="overlay">
                     <span>Musical-Noah, Wetterstation, 2009</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic328} alt="" />
+                  <div className="overlay">
+                    <span>Musical-Noah, Technik, 2009</span>
                   </div>
                 </li>
                 <li>
@@ -580,6 +809,12 @@ function Gallery() {
           {other ? (
             <React.Fragment>
               <ul className="image-gallery">
+                <li>
+                  <img src={pic154} alt="" />
+                  <div className="overlay">
+                    <div>mein Übungsplatz zuhause</div>
+                  </div>
+                </li>
                 <li>
                   <img src={pic150} alt="" />
                   <div className="overlay">

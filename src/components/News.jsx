@@ -37,7 +37,7 @@ function News() {
                   Theo Ziegler
                 </div>
 
-                {/*<Link to="/project/detail3">Read more</Link>*/}
+                {/*<Link to="/project/detail2">Read more</Link>*/}
               </div>
               <div className="projects-card">
                 <div>
@@ -46,7 +46,7 @@ function News() {
                   Kirche Mitteltal Osternacht mit dem Chor Lichtblicke
                 </div>
 
-                <Link to="/project/detail2">Read more</Link>
+                <Link to="/project/detail3">Read more</Link>
               </div>
             </div>
           </div>
