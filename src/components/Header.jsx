@@ -8,7 +8,7 @@ function Header() {
         <div className="header-area">
           <div className="header-markus-hall">
             <h1>Markus Hall</h1>
-            <p>Music was my first love, and it will be my last</p>
+            <p>my music</p>
           </div>
           <div className="drums-img">
             <img src={drums} alt="" />
