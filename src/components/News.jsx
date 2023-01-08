@@ -21,23 +21,22 @@ function News() {
             <div className="card-area">
               <div className="projects-card">
                 <div>
-                  <strong>5.1.2023 / 19.00Uhr</strong>
+                  <strong>news1</strong>
                   <br />-<br />
-                  Kirche Mitteltal "Mein lieber Sohn" Bibelkonzert von und mit
-                  Theo Ziegler
+                  ...
                 </div>
 
-                <Link to="/project/detail">Read more</Link>
+                {/*<Link to="/project/detail">Read more</Link>*/}
               </div>
               <div className="projects-card">
                 <div>
-                  <strong>6.1.2023 / 10.00Uhr</strong>
+                  <strong>30Jahre Frozen Heart</strong>
                   <br />-<br />
-                  Kirche Mitteltal "Mein lieber Sohn" Bibelkonzert von und mit
-                  Theo Ziegler
+                  Zum 30jährigen Jubiläum der CD - Heart of stone - habe ich ein
+                  altes Live-Video hervorgeholt.
                 </div>
 
-                {/*<Link to="/project/detail2">Read more</Link>*/}
+                <Link to="/project/detail2">Read more</Link>
               </div>
               <div className="projects-card">
                 <div>
