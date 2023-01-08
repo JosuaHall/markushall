@@ -21,9 +21,9 @@ function News() {
             <div className="card-area">
               <div className="projects-card">
                 <div>
-                  <strong>news1</strong>
+                  <strong>Start meiner neuen Homepage</strong>
                   <br />-<br />
-                  ...
+                  1.Januar.2023, danke an Josua für die tolle Umsetzung.
                 </div>
 
                 {/*<Link to="/project/detail">Read more</Link>*/}
