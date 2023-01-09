@@ -31,10 +31,9 @@ function News() {
               </div>
               <div className="projects-card">
                 <div>
-                  <strong>30Jahre Frozen Heart</strong>
+                  <strong>30 Jahre Frozen Heart</strong>
                   <br />-<br />
-                  Zum 30jährigen Jubiläum der CD - Heart of stone - habe ich ein
-                  altes Live-Video hervorgeholt.
+                  Livevideo zum 30jährigen Jubiläum der CD - Heart of stone
                 </div>
 
                 <Link to="/project/detail2">Read more</Link>
