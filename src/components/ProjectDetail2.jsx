@@ -15,12 +15,20 @@ function ProjectDetail2() {
               <img src={pic_fh_roll} className="project-card-image" alt="" />
             </div>
             <div className="text-left">
-              Vor 30 Jahren habe ich mit der Stuttgarter Formation Frozen Heart
-              die CD Heart of stone aufgenommen. Aus meinem Archiv habe ich ein
-              altes Live Video herausgekramt, die schlechte Bildqualität möchte
-              ich entschuldigen.
+              Vor 30 Jahren habe ich mit Frozen Heart die CD Heart of stone
+              aufgenommen. Aus meinem Archiv habe ich ein altes Live Video
+              herausgekramt, die schlechte Bildqualität möchte ich
+              entschuldigen.
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="Rx3qtKYBqNU" />
+              <p>
+                Der Song "Heart of stone" stammt übrigens aus der Feder von
+                Michael Kohler, dem Orginalsänger von Frozen Heart, der damals
+                kurz vor Veröffentlichung der CD wieder zurück in die USA
+                gegangen ist. Dank Social Media habe ich seit wenigen Jahren
+                wieder Kontakt zu Michael. Wir haben vor, musikalisch mal wieder
+                was gemeinsam zu machen. God bless you Michael.
+              </p>
             </div>
           </div>
         </div>
