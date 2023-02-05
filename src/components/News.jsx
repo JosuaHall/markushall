@@ -42,7 +42,7 @@ function News() {
                 <div>
                   <strong>9.4.2023 / 6.00Uhr</strong>
                   <br />-<br />
-                  Kirche Mitteltal Osternacht mit dem Chor Lichtblicke
+                  Kirche Mitteltal Osternacht mit Chor
                 </div>
 
                 <Link to="/project/detail3">Read more</Link>
