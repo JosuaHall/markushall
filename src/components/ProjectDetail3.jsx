@@ -19,7 +19,7 @@ function ProjectDetail3() {
               />
             </div>
             <p>
-              Im Dunkel unsrer Nacht entzünde das Feuer, dass nie mehr erlischt
+              Im Dunkel unsrer Nacht entzünde das Feuer, das nie mehr erlischt
             </p>
             <p>
               Mit einigen Instrumentalisten und einem Projektchor wollen wir die
