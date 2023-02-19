@@ -21,13 +21,12 @@ function News() {
             <div className="card-area">
               <div className="projects-card">
                 <div>
-                  <strong>1.Januar, 2023</strong>
+                  <strong>22.Februar, 19.00Uhr Gemeindehaus Mitteltal</strong>
                   <br />-<br />
-                  Start meiner neuen Homepage, danke an Josua für die tolle
-                  Umsetzung.
+                  Start des Projektchors für die Osternacht.
                 </div>
 
-                {/*<Link to="/project/detail">Read more</Link>*/}
+                <Link to="/project/detail3">Read more</Link>
               </div>
               <div className="projects-card">
                 <div>
@@ -42,7 +41,7 @@ function News() {
                 <div>
                   <strong>9.4.2023 / 6.00Uhr</strong>
                   <br />-<br />
-                  Kirche Mitteltal Osternacht mit Chor
+                  Kirche Mitteltal Osternacht mit Projekt-Chor
                 </div>
 
                 <Link to="/project/detail3">Read more</Link>
