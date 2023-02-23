@@ -26,11 +26,11 @@ function ProjectDetail3() {
               Osternacht wieder in der Christuskirche in Mitteltal feiern.
             </p>
             <p>
-              Am Mittwoch, den 22.02. um 19.00Uhr trifft sich zum ersten Mal der
-              Projektchor im Gemeindehaus in Mitteltal, jeder der mitsingen
-              möchte ist herzlich eingeladen. 7 Chorlieder werden wir in 4
-              Proben am 8./15./22. u.29.3 einstudieren und in der Osternacht am
-              9.April um 6.00Uhr früh aufführen.
+              Am Mittwoch, den 8.03. um 19.00Uhr trifft sich der Projektchor im
+              Gemeindehaus in Mitteltal, jeder der mitsingen möchte ist herzlich
+              eingeladen. 7 Chorlieder werden wir in 4 Proben am 8./15./22.
+              u.29.3 einstudieren und in der Osternacht am 9.April um 6.00Uhr
+              früh aufführen.
             </p>
           </div>
         </div>
