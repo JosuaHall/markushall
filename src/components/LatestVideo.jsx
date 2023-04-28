@@ -8,7 +8,7 @@ function LatestVideo() {
         <div className="latest-video-area">
           <h2>Latest Video</h2>
           {/* Youtube video embedded */}
-          <YoutubeEmbed embedId="VVH1grtTq-E" />
+          <YoutubeEmbed embedId="51EZYmdhwUE" />
         </div>
       </div>
     </div>

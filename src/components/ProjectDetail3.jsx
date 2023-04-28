@@ -22,15 +22,14 @@ function ProjectDetail3() {
               Im Dunkel unsrer Nacht entzünde das Feuer, das nie mehr erlischt
             </p>
             <p>
-              Mit einigen Instrumentalisten und einem Projektchor wollen wir die
-              Osternacht wieder in der Christuskirche in Mitteltal feiern.
+              Mit einigen Instrumentalisten und einem Projektchor feierten wir
+              zusammen mit Pfarrer Fellmeth die Osternacht in der Christuskirche
+              in Mitteltal.
             </p>
             <p>
-              Am Mittwoch, den 8.03. um 19.00Uhr trifft sich der Projektchor im
-              Gemeindehaus in Mitteltal, jeder der mitsingen möchte ist herzlich
-              eingeladen. 7 Chorlieder werden wir in 4 Proben am 8./15./22.
-              u.29.3 einstudieren und in der Osternacht am 9.April um 6.00Uhr
-              früh aufführen.
+              Mit Liedern, Lesungen und Gebeten, sowie den Bildern zur Passion
+              von Bärbel Schairer haben wir die Auferstehungsfeier Jesu Christi
+              am Ostermorgen gefeiert.
             </p>
           </div>
         </div>

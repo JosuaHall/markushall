@@ -21,12 +21,12 @@ function News() {
             <div className="card-area">
               <div className="projects-card">
                 <div>
-                  <strong>8.März, 19.00Uhr Gemeindehaus Mitteltal</strong>
+                  <strong>Neues Video - Jesus meine Hoffnung lebt</strong>
                   <br />-<br />
-                  Probe Projektchors für die Osternacht.
+                  Osternacht 2023
                 </div>
 
-                <Link to="/project/detail3">Read more</Link>
+                <Link to="/project/detail">Read more</Link>
               </div>
               <div className="projects-card">
                 <div>
