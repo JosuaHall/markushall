@@ -2,6 +2,7 @@ import React from "react";
 import mlsBild1 from "../pictures/home/mls_plakat.jpg";
 import mlsBild2 from "../pictures/home/mls_band.JPG";
 import pic_osternacht23 from "../pictures/home/on23.jpg";
+import YoutubeEmbed from "./YoutubeEmbed";
 
 function ProjectDetail3() {
   return (
@@ -11,12 +12,14 @@ function ProjectDetail3() {
           <div className="bands-card-layout mt-2 p-1">
             <h1>Projektchor für Osternacht</h1>
             <p>Ostersonntag - Christuskirche Mitteltal</p>
-            <div className="">
-              <img
-                src={pic_osternacht23}
-                className="project-card-image"
-                alt=""
-              />
+            <div className="text-left">
+              Video "Jesus meine Hoffnung lebt"
+              {/* Youtube video embedded */}
+              <YoutubeEmbed embedId="51EZYmdhwUE" />
+              <p>
+                Aufgenommen in der Christuskirche in Mitteltal am Ostersamstag
+                2023.
+              </p>
             </div>
             <p>
               Im Dunkel unsrer Nacht entzünde das Feuer, das nie mehr erlischt

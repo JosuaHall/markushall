@@ -6,9 +6,9 @@ function LatestVideo() {
     <div className="inner-wrapper">
       <div className="content">
         <div className="latest-video-area">
-          <h2>Latest Video</h2>
+          <h2>Demosong - I'm Free - HP's Hauskapelle</h2>
           {/* Youtube video embedded */}
-          <YoutubeEmbed embedId="51EZYmdhwUE" />
+          <YoutubeEmbed embedId="n103f_LrBHk" />
         </div>
       </div>
     </div>

@@ -21,9 +21,11 @@ function News() {
             <div className="card-area">
               <div className="projects-card">
                 <div>
-                  <strong>Neues Video - Jesus meine Hoffnung lebt</strong>
+                  <strong>HP's Hauskapelle</strong>
                   <br />-<br />
-                  Osternacht 2023
+                  3.Aug. Alpirsbach - Klosterhof
+                  <br />-<br />
+                  5.Aug. Obertal - Buhlbachbeleuchtung
                 </div>
 
                 <Link to="/project/detail">Read more</Link>
@@ -39,9 +41,9 @@ function News() {
               </div>
               <div className="projects-card">
                 <div>
-                  <strong>9.4.2023 / 6.00Uhr</strong>
+                  <strong>Rückblick Osternacht</strong>
                   <br />-<br />
-                  Kirche Mitteltal Osternacht mit Projekt-Chor
+                  Kirche Mitteltal mit Projekt-Chor
                 </div>
 
                 <Link to="/project/detail3">Read more</Link>
