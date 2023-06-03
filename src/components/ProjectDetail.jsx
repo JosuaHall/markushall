@@ -1,5 +1,7 @@
 import React from "react";
-import pic_hp22 from "../pictures/bands/hp22.jpg";
+import pic_assel from "../pictures/bands/hp_assel23.jpg";
+import pic_sub from "../pictures/bands/hp_sub23.jpg";
+import pic_bbb from "../pictures/bands/hp_bbb23.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
 
 function ProjectDetail() {
@@ -13,11 +15,16 @@ function ProjectDetail() {
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="">
-              <img src={pic_hp22} className="project-card-image" alt="" />
+              <img src={pic_assel} className="project-card-image" alt="" />
             </div>
             <div className="text-left">
-              3.Aug 2023 Alpirsbach - Klosterhof.
-              <p>5.Aug. 2023 Obertal - Buhlbachbeleuchtung.</p>
+              <div className="">
+                <img src={pic_sub} className="project-card-image" alt="" />
+              </div>
+              <div className="">
+                <img src={pic_bbb} className="project-card-image" alt="" />
+              </div>
+              <p>Bluesrock vom Feinsten</p>
               Video "White room"
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="VVH1grtTq-E" />
