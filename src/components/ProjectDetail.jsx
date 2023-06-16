@@ -2,6 +2,7 @@ import React from "react";
 import pic_assel from "../pictures/bands/hp_assel23.jpg";
 import pic_sub from "../pictures/bands/hp_sub23.jpg";
 import pic_bbb from "../pictures/bands/hp_bbb23.jpg";
+import pic_banner from "../pictures/bands/hp_banner.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
 
 function ProjectDetail() {
@@ -24,7 +25,9 @@ function ProjectDetail() {
               <div className="">
                 <img src={pic_bbb} className="project-card-image" alt="" />
               </div>
-              <p>Bluesrock vom Feinsten</p>
+              <div className="">
+                <img src={pic_banner} className="project-card-image" alt="" />
+              </div>
               Video "White room"
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="VVH1grtTq-E" />
