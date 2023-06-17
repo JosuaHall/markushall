@@ -16,10 +16,6 @@ function ProjectDetail() {
           </h1>
 
           <div className="bands-card-layout mt-2 p-1">
-            <p>next gig...</p>
-            <div className="">
-              <img src={pic_assel} className="project-card-image" alt="" />
-            </div>
             <div className="text-left">
               <div className="">
                 <img src={pic_term23} className="project-card-image" alt="" />
