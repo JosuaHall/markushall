@@ -18,12 +18,15 @@ function ProjectDetail() {
           <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
               <div className="">
-                <img src={pic_term23} className="project-card-image" alt="" />
+                <img src={pic_sub} className="project-card-image" alt="" />
               </div>
               Video "White room"
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="VVH1grtTq-E" />
               <p>Aufgenommen im Platzmeisterhaus in Christophstal 2022.</p>
+              <div className="">
+                <img src={pic_bbb} className="project-card-image" alt="" />
+              </div>
             </div>
           </div>
         </div>
