@@ -2,6 +2,7 @@ import React from "react";
 import pic_assel from "../pictures/bands/hp_assel23.jpg";
 import pic_sub from "../pictures/bands/hp_sub23.jpg";
 import pic_bbb from "../pictures/bands/hp_bbb23.jpg";
+import pic_lns from "../pictures/bands/hp_late_night_shopping23.jpg";
 import pic_bnn_eanner from "../pictures/bands/hp_banner.jpg";
 import pic_term23 from "../pictures/bands/hp_termine23.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
@@ -19,6 +20,9 @@ function ProjectDetail() {
             <div className="text-left">
               <div className="">
                 <img src={pic_sub} className="project-card-image" alt="" />
+              </div>
+              <div className="">
+                <img src={pic_lns} className="project-card-image" alt="" />
               </div>
               Video "White room"
               {/* Youtube video embedded */}
