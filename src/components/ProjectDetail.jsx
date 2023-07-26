@@ -21,9 +21,6 @@ function ProjectDetail() {
               <div className="">
                 <img src={pic_sub} className="project-card-image" alt="" />
               </div>
-              <div className="">
-                <img src={pic_lns} className="project-card-image" alt="" />
-              </div>
               Video "White room"
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="VVH1grtTq-E" />

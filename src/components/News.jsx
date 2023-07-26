@@ -23,8 +23,6 @@ function News() {
                 <div>
                   <strong>HP's Hauskapelle</strong>
                   <br />-<br />
-                  28.Jul. FDS - Late night shopping
-                  <br />-<br />
                   3.Aug. Alpirsbach - Klostergarten
                   <br />-<br />
                   5.Aug. Obertal - Buhlbachbeleuchtung
