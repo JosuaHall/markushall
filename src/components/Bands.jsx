@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect } from "react";
 import poster_liederschatz from "../pictures/Projects/ls_flyer.jpg";
-import hp22 from "../pictures/bands/hp22.jpg";
+import hp25 from "../pictures/bands/hp25.jpg";
 import ce from "../pictures/bands/ce_cat.jpg";
 import ejw from "../pictures/bands/ejw_2019.jpg";
 import fh from "../pictures/bands/fh.jpg";
@@ -20,14 +20,14 @@ const Bands = () => {
       <div className="inner-wrapper">
         <div className="content">
           <h1 className="mb-2">Bands</h1>
-          <h3 className="text-center">HP's Hauskapelle</h3>
+          <h3 className="text-center">Lady Blue & The Band</h3>
           <div className="bands-card-layout mt-2">
             {/*mt-2 means margin top = 2 */}
 
             <div>
               <img
                 className="project-card-image p-3" //p-3 -> means padding = 3
-                src={hp22}
+                src={hp25}
                 alt=""
               />
             </div>
@@ -35,13 +35,13 @@ const Bands = () => {
               <p>
                 <b>Blues Band aus Freudenstadt</b>
               </p>
-              <p>seit 2021</p>
+              <p>ehemals HP's Hauskapelle</p>
               <p>
-                Blues und Rock Covers, aktuell mit HP, Ralph, Charls, Dieter und
-                Norbert.
+                Blues und Rock Covers, aktuell mit HP, Lorena, Charly, Dieter
+                und Norbert.
               </p>
               {/* Youtube video embedded */}
-              <YoutubeEmbed embedId="VVH1grtTq-E" />
+              <YoutubeEmbed embedId="5qza2g6jrlY" />
             </div>
           </div>
 

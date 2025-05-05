@@ -21,11 +21,11 @@ function News() {
             <div className="card-area">
               <div className="projects-card">
                 <div>
-                  <strong>HP's Hauskapelle</strong>
+                  <strong>Lady Blue & The Band</strong>
                   <br />-<br />
-                  3.Aug. Alpirsbach - Klostergarten
+                  21.Juni Betzweiler - Marktplatz
                   <br />-<br />
-                  5.Aug. Obertal - Buhlbachbeleuchtung
+                  2.Aug. Obertal - Buhlbachbeleuchtung
                 </div>
 
                 <Link to="/project/detail">Read more</Link>

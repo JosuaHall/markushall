@@ -1,10 +1,5 @@
 import React from "react";
-import pic_assel from "../pictures/bands/hp_assel23.jpg";
-import pic_sub from "../pictures/bands/hp_sub23.jpg";
-import pic_bbb from "../pictures/bands/hp_bbb23.jpg";
-import pic_lns from "../pictures/bands/hp_late_night_shopping23.jpg";
-import pic_bnn_eanner from "../pictures/bands/hp_banner.jpg";
-import pic_term23 from "../pictures/bands/hp_termine23.jpg";
+import pic_ladyblue from "../pictures/bands/ladyblueKI.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
 
 function ProjectDetail() {
@@ -13,20 +8,25 @@ function ProjectDetail() {
       <div className="inner-wrapper">
         <div className="content py-2">
           <h1 className="mb-2 text-center">
-            Termine Bluesband HP's Hauskapelle 2023
+            Termine Lady Blue & The Band 2025
           </h1>
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
+              Samstag, 21.Juni 2025: 15 Jahre Genusswelt Dunkelgold in
+              Betzweiler. Lady Blue spielt ab 19.00Uhr Rock- und Bluesklassiker.
+              Der Eintritt ist frei.
               <div className="">
-                <img src={pic_sub} className="project-card-image" alt="" />
+                <img src={pic_ladyblue} className="project-card-image" alt="" />
               </div>
-              Video "White room"
+              Video "Wishing Well"
               {/* Youtube video embedded */}
-              <YoutubeEmbed embedId="VVH1grtTq-E" />
-              <p>Aufgenommen im Platzmeisterhaus in Christophstal 2022.</p>
+              <YoutubeEmbed embedId="5qza2g6jrlY" />
+              <p>Aufgenommen bei der HP-Homesession April 2025</p>
+              Buhlbachbeleuchtung Obertal: Am 2.August 2025 spielt Lady Blue &
+              The Band an der Glashütte ab 19.00Uhr.
               <div className="">
-                <img src={pic_bbb} className="project-card-image" alt="" />
+                <img src={pic_ladyblue} className="project-card-image" alt="" />
               </div>
             </div>
           </div>
