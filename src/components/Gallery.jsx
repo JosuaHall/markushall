@@ -82,8 +82,8 @@ import pic63 from "../pictures/Gallery/pic63_tts_favorite2.JPG";
 import pic64 from "../pictures/Gallery/pic64_tts_soldaten.JPG";
 import pic65 from "../pictures/Gallery/pic65_tts_speer.JPG";
 import pic100 from "../pictures/Gallery/pic100_hp_charly.jpg";
-import pic101 from "../pictures/Gallery/pic101_hp_markus.jpg";
-import pic102 from "../pictures/Gallery/pic102_hp_ralph.jpg";
+import pic101 from "../pictures/Gallery/pic103_hp_live23.jpg";
+import pic102 from "../pictures/Gallery/pic102_hp_live25.jpg";
 import pic103 from "../pictures/Gallery/pic103_hp_hp2.jpg";
 import pic104 from "../pictures/Gallery/pic104_hp_dieter.jpg";
 import pic111 from "../pictures/Gallery/pic111_ce_bbr.jpg";
@@ -678,35 +678,15 @@ function Gallery() {
             <React.Fragment>
               <ul className="image-gallery">
                 <li>
-                  <img src={pic100} alt="" />
-                  <div className="overlay">
-                    <div>Charly-HP's Hauskapelle, Platzmeisterhaus, 2022</div>
-                  </div>
-                </li>
-                <li>
                   <img src={pic101} alt="" />
                   <div className="overlay">
-                    <span>Markus-HP's Hauskapelle, Platzmeisterhaus, 2022</span>
+                    <span>HP's Hauskapelle, Buhlbachbeleuchtung, 2023</span>
                   </div>
                 </li>
                 <li>
                   <img src={pic102} alt="" />
                   <div className="overlay">
-                    <span>Ralph-HP's Hauskapelle, Platzmeisterhaus, 2022</span>
-                  </div>
-                </li>
-                <li>
-                  <img src={pic103} alt="" />
-                  <div className="overlay">
-                    <span>
-                      Hans Peter-HP's Hauskapelle, Platzmeisterhaus, 2022
-                    </span>
-                  </div>
-                </li>
-                <li>
-                  <img src={pic104} alt="" />
-                  <div className="overlay">
-                    <span>Dieter-HP's Hauskapelle, Platzmeisterhaus, 2022</span>
+                    <span>Lady Blue, Betzweiler, 2025</span>
                   </div>
                 </li>
                 <li>

@@ -1,6 +1,7 @@
 import React from "react";
 import pic_ladyblue from "../pictures/bands/ladyblueKI.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
+import pic_ladyblue2 from "../pictures/bands/hp25_betz.jpg";
 
 function ProjectDetail() {
   return (
@@ -26,7 +27,11 @@ function ProjectDetail() {
               Buhlbachbeleuchtung Obertal: Am 2.August 2025 spielt Lady Blue &
               The Band an der Glashütte ab 19.00Uhr.
               <div className="">
-                <img src={pic_ladyblue} className="project-card-image" alt="" />
+                <img
+                  src={pic_ladyblue2}
+                  className="project-card-image"
+                  alt=""
+                />
               </div>
             </div>
           </div>
