@@ -24,8 +24,8 @@ function ProjectDetail() {
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="5qza2g6jrlY" />
               <p>Aufgenommen bei der HP-Homesession April 2025</p>
-              Buhlbachbeleuchtung Obertal: Am 2.August 2025 spielt Lady Blue &
-              The Band an der Glashütte ab 19.00Uhr.
+              Am 13.Dezember 2025 spielt Lady Blue & The Band in der Kellerassel
+              ab 21.00Uhr - Eintritt frei.
               <div className="">
                 <img
                   src={pic_ladyblue2}
