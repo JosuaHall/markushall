@@ -14,18 +14,11 @@ function ProjectDetail() {
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
-              Samstag, 21.Juni 2025: 15 Jahre Genusswelt Dunkelgold in
-              Betzweiler. Lady Blue spielt ab 19.00Uhr Rock- und Bluesklassiker.
-              Der Eintritt ist frei.
+              Am 13.Dezember 2025 spielt Lady Blue & The Band in der Kellerassel
+              in Baiersbronn ab 21.00Uhr. Der Eintritt ist frei.
               <div className="">
                 <img src={pic_ladyblue} className="project-card-image" alt="" />
               </div>
-              Video "Wishing Well"
-              {/* Youtube video embedded */}
-              <YoutubeEmbed embedId="5qza2g6jrlY" />
-              <p>Aufgenommen bei der HP-Homesession April 2025</p>
-              Am 13.Dezember 2025 spielt Lady Blue & The Band in der Kellerassel
-              ab 21.00Uhr - Eintritt frei.
               <div className="">
                 <img
                   src={pic_ladyblue2}
@@ -33,6 +26,10 @@ function ProjectDetail() {
                   alt=""
                 />
               </div>
+              Video "Wishing Well"
+              {/* Youtube video embedded */}
+              <YoutubeEmbed embedId="5qza2g6jrlY" />
+              <p>Aufgenommen bei der HP-Homesession April 2025</p>
             </div>
           </div>
         </div>
