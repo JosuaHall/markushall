@@ -10,12 +10,10 @@ function ProjectDetail3() {
       <div className="inner-wrapper">
         <div className="content py-2">
           <div className="bands-card-layout mt-2 p-1">
-            <h1>Musik zum Gottesdienst am 9.11. um 10.00Uhr</h1>
+            <h1>Musik zum Gottesdienst am 9.11.2025 um 10.00Uhr</h1>
             <p>Christuskirche Mitteltal</p>
-
             <p>
-              Mit Pfarrer Fellmeth begleite ich mit Hanna uns Sarah den
-              Gottesdienst mit neuen und alten Liedern.
+              mit Hanna (Klavier), Sarah (Gitarre) und Pfarrer Markus Fellmeth.
             </p>
           </div>
         </div>
