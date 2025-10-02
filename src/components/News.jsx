@@ -23,9 +23,8 @@ function News() {
                 <div>
                   <strong>Lady Blue & The Band</strong>
                   <br />-<br />
-                  21.Juni Betzweiler - Marktplatz
+                  13.Dezember Kellerassel - Baiersbronn
                   <br />-<br />
-                  2.Aug. Obertal - Buhlbachbeleuchtung
                 </div>
 
                 <Link to="/project/detail">Read more</Link>
@@ -41,9 +40,9 @@ function News() {
               </div>
               <div className="projects-card">
                 <div>
-                  <strong>Rückblick Osternacht</strong>
+                  <strong>Musik zum Gottesdienst</strong>
                   <br />-<br />
-                  Kirche Mitteltal mit Projekt-Chor
+                  Christuskirche Mitteltal am 9.11.2025
                 </div>
 
                 <Link to="/project/detail3">Read more</Link>
