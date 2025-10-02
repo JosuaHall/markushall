@@ -17,9 +17,6 @@ function ProjectDetail() {
               Am 13.Dezember 2025 spielt Lady Blue & The Band in der Kellerassel
               in Baiersbronn ab 21.00Uhr. Der Eintritt ist frei.
               <div className="">
-                <img src={pic_ladyblue} className="project-card-image" alt="" />
-              </div>
-              <div className="">
                 <img
                   src={pic_ladyblue2}
                   className="project-card-image"
