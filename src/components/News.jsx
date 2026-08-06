@@ -42,7 +42,7 @@ function News() {
                 <div>
                   <strong>Musik zum Gottesdienst</strong>
                   <br />-<br />
-                  Christuskirche Mitteltal am 9.11.2025
+                  Termine
                 </div>
 
                 <Link to="/project/detail3">Read more</Link>
