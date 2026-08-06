@@ -13,7 +13,7 @@ function ProjectDetail3() {
             <h1>CVJM-Band am 11.10. und 6.12.2026 jew.um 10.00Uhr</h1>
             <p>Christuskirche Mitteltal</p>
             <p>
-              mit Hanna (Klavier), Sarah (Gitarre) und Pfarrer Markus Fellmeth.
+              mit Hannah (Klavier), Jenny (Gitarre, Gesang) und Jonas Gesang.
             </p>
           </div>
         </div>
