@@ -14,8 +14,8 @@ function ProjectDetail() {
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
-              Am 13.Dezember 2025 spielt Lady Blue & The Band in der Kellerassel
-              in Baiersbronn ab 21.00Uhr. Der Eintritt ist frei.
+              Am 18.August 2026 spielen Lady Blue & The Band auf dem
+              Klosterplatz in Alpirsbach ab 19.00Uhr. Der Eintritt ist frei.
               <div className="">
                 <img
                   src={pic_ladyblue2}
