@@ -10,7 +10,7 @@ function ProjectDetail3() {
       <div className="inner-wrapper">
         <div className="content py-2">
           <div className="bands-card-layout mt-2 p-1">
-            <h1>Musik zum Gottesdienst am 9.11.2025 um 10.00Uhr</h1>
+            <h1>CVJM-Band am 11.10. und 6.12.2026 jew.um 10.00Uhr</h1>
             <p>Christuskirche Mitteltal</p>
             <p>
               mit Hanna (Klavier), Sarah (Gitarre) und Pfarrer Markus Fellmeth.

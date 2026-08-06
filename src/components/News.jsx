@@ -23,7 +23,7 @@ function News() {
                 <div>
                   <strong>Lady Blue & The Band</strong>
                   <br />-<br />
-                  13.Dezember Kellerassel - Baiersbronn
+                  Termine
                   <br />-<br />
                 </div>
 
