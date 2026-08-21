@@ -14,8 +14,10 @@ function ProjectDetail() {
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
-              Am 18.August 2026 spielen Lady Blue & The Band auf dem
-              Klosterplatz in Alpirsbach ab 19.00Uhr. Der Eintritt ist frei.
+              Konzertrückblick Lady Blue & The Band vom 18.8.26 auf dem
+              Klosterplatz in Alpirsbach.
+              {/* Youtube video embedded */}
+                            <https://youtu.be/hC2xlsfzLNo?si=KJdkeK4hJjwl_EGi />
               <div className="">
                 <img
                   src={pic_ladyblue2}

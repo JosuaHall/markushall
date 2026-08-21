@@ -23,7 +23,7 @@ function News() {
                 <div>
                   <strong>Lady Blue & The Band</strong>
                   <br />-<br />
-                  Termine
+                  Termine - Konzertrückblick
                   <br />-<br />
                 </div>
 
