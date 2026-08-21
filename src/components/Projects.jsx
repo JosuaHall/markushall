@@ -8,6 +8,7 @@ import derBarmherzigeVater from "../pictures/Projects/dbv_plakat.jpg";
 import noah from "../pictures/Projects/noah_plakat2.jpg";
 import friedeAufErden from "../pictures/Projects/fae_plakat.gif";
 import vaterMartin from "../pictures/Projects/vm_plakat.jpg";
+import YoutubeEmbed from "./YoutubeEmbed";
 
 function Projects() {
   useEffect(() => {
