@@ -44,13 +44,12 @@ const Bands = () => {
             </div>
             <div className="project-card-description">
               <p>
-                <b>Blues Band aus Freudenstadt</b>
+                <b>
+                  Lady Blue & The Band - ein Abend voller Blues, Rock und
+                  musikalischer Highlights
+                </b>
               </p>
-              <p>
-                {" "}
-                Lady Blue & The Band - ein Abend voller Blues, Rock und
-                musikalischer Highlights{" "}
-              </p>
+              <p> </p>
               <p>
                 Mit einer besonderen Auswahl aus Blues- und Rockklassikern von
                 Künstlern wie U2, den Beatles oder Tina Turner<br></br>sowie

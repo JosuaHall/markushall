@@ -8,10 +8,18 @@ function About() {
         <div className="header-content">
           <div className="header-content-left">
             <div>
-              <h2>über mich</h2>
+              <h2>Sie suchen die passende Livemusik für ihr Event?</h2>
               <p>
-                verheiratet, 2 Kinder, meine favorites sind Drums, Keys, Gesang
-                und Ton-Technik, sonstige Vorlieben auf meiner Facebook-Seite.
+                Ob mit kompletter Blues & Rockband oder in kleiner, feiner
+                Akustikbesetzung -<br></br>wir bieten die passende musikalische
+                Begleitung für Ihren Anlass.
+                <br></br>Mit stilvollem, harmonischen Gesang, professioneller
+                Performance und modernster Ton- und Lichttechnik sorgen wir für
+                den richtigen Sound und eine besondere Atmosphäre - ganz gleich,
+                ob bei privaten Feiern, Hochzeiten, Firmenevents oder
+                öffentlichen Veranstaltungen.<br></br>Lassen Sie uns gemeinsam
+                die passende musikalische Lösung für Ihr Event finden. Schreiben
+                Sie mich einfach an - ich freue mich auf Ihre Anfrage!
               </p>
             </div>
           </div>
