@@ -2,8 +2,11 @@ import React from "react";
 import { useEffect } from "react";
 import poster_liederschatz from "../pictures/Projects/ls_flyer.jpg";
 import hp25 from "../pictures/bands/hp25.jpg";
+import lb1 from "../pictures/bands/pic2LadyBlueFlyer.JPG";
+import lb2 from "../pictures/bands/pic6LadyBlueSubiaco26.jpg";
+import lb3 from "../pictures/bands/pic10LadyBlueSubiaco26.jpg";
 import ce from "../pictures/bands/ce_cat.jpg";
-import ejw from "../pictures/bands/ejw_2019.jpg";
+import ejw from "../pictures/bands/cvjm1.jpg";
 import fh from "../pictures/bands/fh.jpg";
 import uc from "../pictures/bands/uc_patch.jpg";
 import markushall from "../pictures/home/mh_drums_platzmeister22.jpg";
@@ -27,7 +30,15 @@ const Bands = () => {
             <div>
               <img
                 className="project-card-image p-3" //p-3 -> means padding = 3
-                src={hp25}
+                src={lb1}
+                alt=""
+              />
+            </div>
+
+            <div>
+              <img
+                className="project-card-image p-3" //p-3 -> means padding = 3
+                src={lb3}
                 alt=""
               />
             </div>
@@ -35,17 +46,38 @@ const Bands = () => {
               <p>
                 <b>Blues Band aus Freudenstadt</b>
               </p>
-              <p>ehemals HP's Hauskapelle</p>
               <p>
-                Blues und Rock Covers, aktuell mit HP, Lorena, Charly, Dieter
-                und Norbert.
+                {" "}
+                Lady Blue & The Band - ein Abend voller Blues, Rock und
+                musikalischer Highlights{" "}
+              </p>
+              <p>
+                Mit einer besonderen Auswahl aus Blues- und Rockklassikern von
+                Künstlern wie U2, den Beatles oder Tina Turner<br></br>sowie
+                aktuellen Bluessongs, unter anderem von Elles Bailey, bietet
+                Lady Blue & The Band ein abwechslungsreiches und stimmungsvolles
+                Konzerterlebnis.<br></br>Im Mittelpunkt steht die
+                außergewöhnliche Stimme von Lorena, die den Songs ihre ganz
+                eigene Note verleiht und jeden Auftritt zu einem besonderen
+                musikalischen Erlebnis macht.<br></br>Ob Konzert, private Feier,
+                Hochzeit, Firmenevent oder ein anderer Anlass - Lady Blue & The
+                Band sorgt für die passende Atmosphäre und einen unvergesslichen
+                Abend.<br></br>Sie haben Interesse? Schreiben Sie mich gerne an,
+                ich freue mich auf Ihre Anfrage!
+                <div>
+                  <img
+                    className="project-card-image p-3" //p-3 -> means padding = 3
+                    src={lb2}
+                    alt=""
+                  />
+                </div>
               </p>
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="5qza2g6jrlY" />
             </div>
           </div>
 
-          <h3 className="text-center mt-3">EJM-Band</h3>
+          <h3 className="text-center mt-3">CVJM-Band</h3>
           <div className="bands-card-layout mt-2">
             {/*mt-2 means margin top = 2 */}
 
@@ -58,9 +90,9 @@ const Bands = () => {
             </div>
             <div className="project-card-description">
               <p>
-                <b>Band der Ev. Jugend Mitteltal</b>
+                <b>CVJM Band Mitteltal/Obertal</b>
               </p>
-              <p>seit 2014</p>
+              <p>aktuell mit Hannah, Jenny, Toby und Jonas</p>
               <p>Bandprojekt der Kirchengemeinde Mitteltal</p>
             </div>
           </div>
