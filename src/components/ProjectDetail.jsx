@@ -1,7 +1,7 @@
 import React from "react";
 import pic_ladyblue from "../pictures/bands/ladyblueKI.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
-import pic_ladyblue2 from "../pictures/bands/hp25_betz.jpg";
+import pic_ladyblue2 from "../pictures/bands/picLadyBlueSubiaco26.jpg";
 
 function ProjectDetail() {
   return (
@@ -18,6 +18,9 @@ function ProjectDetail() {
               Klosterplatz in Alpirsbach.
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="hC2xlsfzLNo?si=WKK27UwZzCB42bhC" />
+              <div>
+                <img />
+              </div>
             </div>
           </div>
         </div>
