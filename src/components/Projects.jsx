@@ -58,6 +58,10 @@ function Projects() {
                 Besetzungen spielten das Musical vom verlorenen Sohn im Orginal
                 von den KISI-Kids in der Schwarzwaldhalle in Baiersbronn.
               </p>
+              <p>
+                {/* Youtube video embedded */}
+                <YoutubeEmbed embedId="whUvbmHgxqg?si=5dyiCLpPvRZOSxZt" />
+              </p>
             </div>
           </div>
           {/* ---------------------------------------------------------- */}
