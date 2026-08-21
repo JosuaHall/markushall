@@ -166,6 +166,10 @@ function Projects() {
                 Jesu, wurden mit Spielszenen, einem Chor und einer Live-Band
                 2mal in Mitteltal aufgeführt.
               </p>
+              <p>
+                {/* Youtube video embedded */}
+                <YoutubeEmbed embedId="6NnHMY08Ii0?si=wVLq9sXSgo6VQum2" />
+              </p>
             </div>
           </div>
           {/* -------------------------------------------------------------- */}
