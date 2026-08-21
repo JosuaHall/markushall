@@ -17,7 +17,7 @@ function ProjectDetail() {
               Konzertrückblick Lady Blue & The Band vom 18.8.26 auf dem
               Klosterplatz in Alpirsbach.
               {/* Youtube video embedded */}
-                            <https://youtu.be/hC2xlsfzLNo?si=KJdkeK4hJjwl_EGi />
+              <YoutubeEmbed embedId="be/hC2xlsfzLNo?si=Jzs56CGUXAzbkDN1" />
               <div className="">
                 <img
                   src={pic_ladyblue2}
