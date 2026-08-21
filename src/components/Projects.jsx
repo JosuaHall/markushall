@@ -137,6 +137,8 @@ function Projects() {
                 Kirchenlieder modern interpretiert. Die schönsten Lieder aus der
                 Serie wurden 2x in Mitteltal, in Dornstetten und in Knittlingen
                 aufgeführt.
+              </p>
+              <p>
                 {/* Youtube video embedded */}
                 <YoutubeEmbed embedId="NnRhGW5nKfc?si=OKRVi15Z5ZzgIh1I" />
               </p>
