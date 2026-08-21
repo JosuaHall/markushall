@@ -18,17 +18,6 @@ function ProjectDetail() {
               Klosterplatz in Alpirsbach.
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="hC2xlsfzLNo?si=WKK27UwZzCB42bhC" />
-              <div className="">
-                <img
-                  src={pic_ladyblue2}
-                  className="project-card-image"
-                  alt=""
-                />
-              </div>
-              Video "Wishing Well"
-              {/* Youtube video embedded */}
-              <YoutubeEmbed embedId="5qza2g6jrlY" />
-              <p>Aufgenommen bei der HP-Homesession April 2025</p>
             </div>
           </div>
         </div>
