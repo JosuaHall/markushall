@@ -8,9 +8,7 @@ function ProjectDetail() {
     <div className="outer-wrapper">
       <div className="inner-wrapper">
         <div className="content py-2">
-          <h1 className="mb-2 text-center">
-            Termine Lady Blue & The Band 2025
-          </h1>
+          <h1 className="mb-2 text-center">Termine Lady Blue & The Band</h1>
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
