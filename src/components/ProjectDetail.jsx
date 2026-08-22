@@ -16,6 +16,16 @@ function ProjectDetail() {
               Klosterplatz in Alpirsbach.
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="hC2xlsfzLNo?si=WKK27UwZzCB42bhC" />
+              <p>
+                Livemitschnitt - Train - ein aktueller Bluessong von Shanice
+                Green.
+              </p>
+              {/* Youtube video embedded */}
+              <YoutubeEmbed embedId="lpy4tPSvle0?si=zx2o75nzx8hWxCkC" />
+              <p>
+                Livemitschnitt - What's the matter with you - Vocalcam - ein
+                aktueller Bluessong von Elles Bailey.
+              </p>
               <div>
                 <img />
               </div>

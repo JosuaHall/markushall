@@ -114,6 +114,7 @@ import pic327 from "../pictures/Gallery/pic327_noah_tanz.JPG";
 import pic328 from "../pictures/Gallery/pic328_noah_technik.JPG";
 import pic329 from "../pictures/Gallery/picDrumcabine.jpg";
 import pic330 from "../pictures/Gallery/picStudio.jpg";
+import pic331 from "../pictures/Gallery/ejw_2019.jpg";
 
 function Gallery() {
   const [band, setBand] = useState(false);
@@ -717,6 +718,12 @@ function Gallery() {
                     <span>
                       Cats Eyes-Rockfestival, FDS, Paradies Bird, 1993
                     </span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic331} alt="" />
+                  <div className="overlay">
+                    <span>EJM Band, 2019</span>
                   </div>
                 </li>
                 <li>
