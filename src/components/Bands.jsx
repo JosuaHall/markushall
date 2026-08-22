@@ -62,7 +62,8 @@ const Bands = () => {
                 Hochzeit, Firmenevent oder ein anderer Anlass - Lady Blue & The
                 Band sorgt für die passende Atmosphäre und einen unvergesslichen
                 Abend.<br></br>Sie haben Interesse? Schreiben Sie mich gerne an,
-                ich freue mich auf Ihre Anfrage!
+                ich freue mich auf Ihre Anfrage! <br></br>info@markushall.de -
+                ladyblueandtheband@gmx.de
                 <div>
                   <img
                     className="project-card-image p-3" //p-3 -> means padding = 3

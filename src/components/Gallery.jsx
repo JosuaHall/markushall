@@ -112,6 +112,8 @@ import pic325 from "../pictures/Gallery/pic325_noah_regie2.JPG";
 import pic326 from "../pictures/Gallery/pic326_noah_tagesschau.JPG";
 import pic327 from "../pictures/Gallery/pic327_noah_tanz.JPG";
 import pic328 from "../pictures/Gallery/pic328_noah_technik.JPG";
+import pic329 from "../pictures/Gallery/picDrumcabine.jpg";
+import pic330 from "../pictures/Gallery/picStudio.jpg";
 
 function Gallery() {
   const [band, setBand] = useState(false);
@@ -790,9 +792,15 @@ function Gallery() {
             <React.Fragment>
               <ul className="image-gallery">
                 <li>
-                  <img src={pic154} alt="" />
+                  <img src={pic330} alt="" />
                   <div className="overlay">
-                    <div>mein Übungsplatz zuhause</div>
+                    <div>mein Homestudio</div>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic329} alt="" />
+                  <div className="overlay">
+                    <div>mein Homeoffice</div>
                   </div>
                 </li>
                 <li>

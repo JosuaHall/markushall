@@ -1,7 +1,7 @@
 import React from "react";
 import mlsBild1 from "../pictures/home/mls_plakat.jpg";
 import mlsBild2 from "../pictures/home/mls_band.JPG";
-import pic_osternacht23 from "../pictures/home/on23.jpg";
+import pic_cvjm1 from "../pictures/bands/cvjm1.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
 
 function ProjectDetail3() {
@@ -15,6 +15,9 @@ function ProjectDetail3() {
             <p>
               mit Hannah (Klavier), Jenny (Gitarre, Gesang) und Jonas Gesang.
             </p>
+            <div className="">
+              <img src={pic_cvjm1} className="project-card-image" alt="" />
+            </div>
           </div>
         </div>
       </div>
