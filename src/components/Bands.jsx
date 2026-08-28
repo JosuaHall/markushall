@@ -34,7 +34,8 @@ const Bands = () => {
                 alt=""
               />
             </div>
-
+            {/* Youtube video embedded */}
+            <YoutubeEmbed embedId="p2esMrYvEVk?si=NavWDUsF1EEYVU98" />
             <div>
               <img
                 className="project-card-image p-3" //p-3 -> means padding = 3
