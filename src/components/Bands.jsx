@@ -122,6 +122,8 @@ const Bands = () => {
               </p>
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="fl_GGSZce5U" />
+              {/* Youtube video embedded */}
+              <YoutubeEmbed embedId="wJ0tBetGf9s?si=fLK6U_AGaHjcR-HY" />
             </div>
           </div>
 
