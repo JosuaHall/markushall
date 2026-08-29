@@ -115,7 +115,8 @@ import pic328 from "../pictures/Gallery/pic328_noah_technik.JPG";
 import pic329 from "../pictures/Gallery/picDrumcabine.jpg";
 import pic330 from "../pictures/Gallery/picStudio.jpg";
 import pic331 from "../pictures/Gallery/ejw_2019.jpg";
-import pic332 from "../pictures/Gallery/pic26LadyBlueSubiaco26.jpg";
+import pic332 from "../pictures/Gallery/pic26LadyBlueSubiaco26.JPG";
+import pic333 from "../pictures/Gallery/pic11LadyBlueSubiaco26.JPG";
 
 function Gallery() {
   const [band, setBand] = useState(false);
@@ -683,6 +684,12 @@ function Gallery() {
               <ul className="image-gallery">
                 <li>
                   <img src={pic332} alt="" />
+                  <div className="overlay">
+                    <span>Lady Blue & The Band, Subiaco Open Air, 2026</span>
+                  </div>
+                </li>
+                <li>
+                  <img src={pic333} alt="" />
                   <div className="overlay">
                     <span>Lady Blue & The Band, Subiaco Open Air, 2026</span>
                   </div>
