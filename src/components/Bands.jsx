@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect } from "react";
 import poster_liederschatz from "../pictures/Projects/ls_flyer.jpg";
-import hp25 from "../pictures/bands/hp25.jpg";
+import hp22 from "../pictures/bands/hp22.jpg";
 import lb1 from "../pictures/bands/pic2LadyBlueFlyer.JPG";
 import lb2 from "../pictures/bands/pic6LadyBlueSubiaco26.jpg";
 import lb3 from "../pictures/bands/pic10LadyBlueSubiaco26.jpg";
@@ -97,6 +97,35 @@ const Bands = () => {
               </p>
               <p>aktuell mit Hannah, Jenny, Toby und Jonas</p>
               <p>Bandprojekt der Kirchengemeinde Mitteltal</p>
+            </div>
+          </div>
+
+          <h3 className="text-center mt-3">HP's Hauskapelle</h3>
+          <div className="bands-card-layout mt-2">
+            {/*mt-2 means margin top = 2 */}
+
+            <div>
+              <img
+                className="project-card-image p-3" //p-3 -> means padding = 3
+                src={hp22}
+                alt=""
+              />
+            </div>
+            <div className="project-card-description">
+              <p>
+                <b>HP's Hauskapelle</b>
+              </p>
+              <p>2020-2022</p>
+              <p>
+                Bluesband aus Freudenstadt mit HP,Charly, Norbert, Dieter, Tim
+                und Ralph.
+              </p>
+              {/* Youtube video embedded */}
+              <YoutubeEmbed embedId="n103f_LrBHk?si=3M_LDzxAfWiV-V7v" />
+              <p>
+                Demosong - I'm free - Musik und Text Markus Hall (in einer Zeit,
+                als es noch keine KI gab)
+              </p>
             </div>
           </div>
 
