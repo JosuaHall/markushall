@@ -21,11 +21,8 @@ function ProjectDetail() {
                 Green.
               </p>
               {/* Youtube video embedded */}
-              <YoutubeEmbed embedId="lpy4tPSvle0?si=zx2o75nzx8hWxCkC" />
-              <p>
-                Livemitschnitt - What's the matter with you - Vocalcam - ein
-                aktueller Bluessong von Elles Bailey.
-              </p>
+              <YoutubeEmbed embedId="2PliE4etyyg?si=wB4kyCayBbe26P72" />
+              <p>Livemitschnitt - Hoochie Coochie Man</p>
               <div>
                 <img />
               </div>
