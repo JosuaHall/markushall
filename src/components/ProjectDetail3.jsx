@@ -15,6 +15,11 @@ function ProjectDetail3() {
             <p>
               mit Hannah (Klavier), Jenny (Gitarre, Gesang) und Jonas Gesang.
             </p>
+            <h1>
+              Gottesdienstbegleitung am 25.10., 22.11.2026 und am 10.1.2027
+              jew.um 10.00Uhr
+            </h1>
+            <p>Christuskirche Mitteltal</p>
             <div className="">
               <img src={pic_cvjm1} className="project-card-image" alt="" />
             </div>
