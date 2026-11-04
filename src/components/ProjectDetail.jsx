@@ -11,6 +11,11 @@ function ProjectDetail() {
           <h1 className="mb-2 text-center">Termine Lady Blue & The Band</h1>
 
           <div className="bands-card-layout mt-2 p-1">
+            <h1>29.1.2027</h1>
+            <p>Kellerassel Baiersbronn - Eintritt frei</p>
+          </div>
+
+          <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
               Konzertrückblick Lady Blue & The Band vom 18.8.26 auf dem
               Klosterplatz in Alpirsbach.
