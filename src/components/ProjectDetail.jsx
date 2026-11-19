@@ -16,6 +16,11 @@ function ProjectDetail() {
           </div>
 
           <div className="bands-card-layout mt-2 p-1">
+            <h1>10.8.2027</h1>
+            <p>Subiaco Open Air 27 - Alpirsbach - Eintritt frei</p>
+          </div>
+
+          <div className="bands-card-layout mt-2 p-1">
             <div className="text-left">
               Konzertrückblick Lady Blue & The Band vom 18.8.26 auf dem
               Klosterplatz in Alpirsbach.
