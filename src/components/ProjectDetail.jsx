@@ -14,10 +14,13 @@ function ProjectDetail() {
             <h1>29.1.2027</h1>
             <p>Kellerassel Baiersbronn - Eintritt frei</p>
           </div>
-
+          <div className="bands-card-layout mt-2 p-1">
+            <h1>7.8.2027</h1>
+            <p>Buhlbachbeleuchtung - Obertal</p>
+          </div>
           <div className="bands-card-layout mt-2 p-1">
             <h1>10.8.2027</h1>
-            <p>Subiaco Open Air 27 - Alpirsbach - Eintritt frei</p>
+            <p>Subiaco Open Air - Alpirsbach - Eintritt frei</p>
           </div>
 
           <div className="bands-card-layout mt-2 p-1">
