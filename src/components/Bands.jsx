@@ -2,7 +2,7 @@ import React from "react";
 import { useEffect } from "react";
 import poster_liederschatz from "../pictures/Projects/ls_flyer.jpg";
 import hp22 from "../pictures/bands/hp22.jpg";
-import lb1 from "../pictures/bands/pic2LadyBlueFlyer.JPG";
+import lb1 from "../pictures/bands/lb27.jpeg";
 import lb2 from "../pictures/bands/pic6LadyBlueSubiaco26.jpg";
 import lb3 from "../pictures/bands/pic10LadyBlueSubiaco26.jpg";
 import ce from "../pictures/bands/ce_cat.jpg";
