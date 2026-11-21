@@ -11,7 +11,7 @@ function ProjectDetail3() {
         <div className="content py-2">
           <div className="bands-card-layout mt-2 p-1">
             <h1>6.12.26</h1>
-            <p>CVJM-Band - Christuskirche Mitteltal - 10Uhr</p>
+            <p>CVJM-Band - Christuskirche Mitteltal - 10.00Uhr</p>
             <p>
               mit Hannah (Klavier), Jenny (Gitarre, Gesang) und Jonas Gesang.
             </p>
