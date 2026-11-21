@@ -1,6 +1,7 @@
 import React from "react";
 import pic_ladyblue from "../pictures/bands/ladyblueKI.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
+import pic_lb27 from "../pictures/bands/lb27.jpeg";
 import pic_ladyblue2 from "../pictures/bands/picLadyBlueSubiaco26.jpg";
 
 function ProjectDetail() {
@@ -9,7 +10,9 @@ function ProjectDetail() {
       <div className="inner-wrapper">
         <div className="content py-2">
           <h1 className="mb-2 text-center">Termine Lady Blue & The Band</h1>
-
+          <div className="">
+            <img src={pic_lb27} className="project-card-image" alt="" />
+          </div>
           <div className="bands-card-layout mt-2 p-1">
             <h1>29.1.2027</h1>
             <p>Kellerassel Baiersbronn - Eintritt frei</p>
