@@ -31,9 +31,9 @@ function News() {
               </div>
               <div className="projects-card">
                 <div>
-                  <strong>30 Jahre Frozen Heart</strong>
+                  <strong>20 Jahre Mukis</strong>
                   <br />-<br />
-                  Livevideo zum 30jährigen Jubiläum der CD - Heart of stone
+                  Die Musicals
                 </div>
 
                 <Link to="/project/detail2">Read more</Link>
