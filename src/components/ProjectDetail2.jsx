@@ -1,5 +1,5 @@
 import React from "react";
-import pic_fh_roll from "../pictures/bands/fh_rollschuhplatz.jpg";
+import pic38_mukis_markus2 from "../pictures/Gallery/pic151_mh_mukis.jpg";
 
 import YoutubeEmbed from "./YoutubeEmbed";
 
@@ -8,27 +8,23 @@ function ProjectDetail2() {
     <div className="outer-wrapper">
       <div className="inner-wrapper">
         <div className="content py-2">
-          <h1 className="mb-2 text-center">30 Jahre Frozen Heart</h1>
+          <h1 className="mb-2 text-center">20 Jahre Mukis</h1>
 
           <div className="bands-card-layout mt-2 p-1">
             <div className="">
-              <img src={pic_fh_roll} className="project-card-image" alt="" />
+              <img
+                src={pic38_mukis_markus2}
+                className="project-card-image"
+                alt=""
+              />
             </div>
             <div className="text-left">
-              Vor 30 Jahren habe ich mit Frozen Heart die CD Heart of stone
-              aufgenommen. Aus meinem Archiv habe ich ein altes Live Video
-              herausgekramt, die schlechte Bildqualität möchte ich
-              entschuldigen.
+              Vor 20 Jahren habe ich den Kinderchor "Mukis" gegründet und mit
+              den Kids mehrere Musicals veranstaltet. Zu diesem Anlass werde ich
+              in den kommenden Wochen einige Ausschnitte dieser Musicals
+              veröffentlichen.
               {/* Youtube video embedded */}
-              <YoutubeEmbed embedId="Rx3qtKYBqNU" />
-              <p>
-                Der Song "Heart of stone" stammt übrigens aus der Feder von
-                Michael Kohler, dem Orginalsänger von Frozen Heart, der damals
-                kurz vor Veröffentlichung der CD wieder zurück in die USA
-                gegangen ist. Dank Social Media habe ich seit wenigen Jahren
-                wieder Kontakt zu Michael. Wir haben vor, musikalisch mal wieder
-                was gemeinsam zu machen. God bless you Michael.
-              </p>
+              <YoutubeEmbed embedId="KtALB0slHuw?si=16wLLPoT3jC9KUnP" />
             </div>
           </div>
         </div>

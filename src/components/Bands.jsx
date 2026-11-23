@@ -9,6 +9,7 @@ import ce from "../pictures/bands/ce_cat.jpg";
 import ejw from "../pictures/bands/cvjm1.jpg";
 import fh from "../pictures/bands/fh.jpg";
 import uc from "../pictures/bands/uc_patch.jpg";
+import pic_fh_roll from "../pictures/bands/fh_rollschuhplatz.jpg";
 import markushall from "../pictures/home/mh_drums_platzmeister22.jpg";
 import YoutubeEmbed from "./YoutubeEmbed";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -181,6 +182,12 @@ const Bands = () => {
               </p>
               {/* Youtube video embedded */}
               <YoutubeEmbed embedId="3A-FzSiUGd4" />
+              <br></br>
+              {/* Youtube video embedded */}
+              <YoutubeEmbed embedId="Rx3qtKYBqNU" />
+            </div>
+            <div className="">
+              <img src={pic_fh_roll} className="project-card-image" alt="" />
             </div>
           </div>
 
