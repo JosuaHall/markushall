@@ -80,6 +80,10 @@ function Projects() {
                 Bühnenbilder ließen das Musical Noah und die coole Arche in
                 Baiersbronn lebendig werden.
               </p>
+              <p>
+                {/* Youtube video embedded */}
+                <YoutubeEmbed embedId="KtALB0slHuw?si=16wLLPoT3jC9KUnP" />
+              </p>
             </div>
           </div>
           {/* ---------------------------------------------------------- */}
