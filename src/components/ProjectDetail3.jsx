@@ -9,6 +9,9 @@ function ProjectDetail3() {
     <div className="outer-wrapper">
       <div className="inner-wrapper">
         <div className="content py-2">
+          <div className="">
+            <img src={pic_cvjm1} className="project-card-image" alt="" />
+          </div>
           <div className="bands-card-layout mt-2 p-1">
             <h1>22.11.2026</h1>
             <p>Gottesdienstbegleitung Christuskirche Mitteltal - 10.00Uhr</p>
@@ -16,16 +19,18 @@ function ProjectDetail3() {
           <div className="bands-card-layout mt-2 p-1">
             <h1>6.12.26</h1>
             <p>CVJM-Band - Christuskirche Mitteltal - 10.00Uhr</p>
-            <p>
-              mit Hannah (Klavier), Jenny (Gitarre, Gesang) und Jonas Gesang.
-            </p>
-            <div className="">
-              <img src={pic_cvjm1} className="project-card-image" alt="" />
-            </div>
           </div>
           <div className="bands-card-layout mt-2 p-1">
             <h1>10.1.2027</h1>
             <p>Gottesdienstbegleitung Christuskirche Mitteltal - 10.00Uhr</p>
+          </div>
+          <div className="bands-card-layout mt-2 p-1">
+            <h1>31.1.27</h1>
+            <p>CVJM-Band - Christuskirche Mitteltal - 10.00Uhr</p>
+          </div>
+          <div className="bands-card-layout mt-2 p-1">
+            <h1>11.4.27</h1>
+            <p>CVJM-Band - Christuskirche Mitteltal - 10.00Uhr</p>
           </div>
         </div>
       </div>
